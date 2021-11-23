@@ -1,0 +1,14 @@
+{
+  "name": "tokopedia-scrapper",
+  "version": "1.0.0",
+  "description": "Tokopedia Scrapper Product",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adhitya Giva Muhammad",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^11.0.0"
+  }
+}
